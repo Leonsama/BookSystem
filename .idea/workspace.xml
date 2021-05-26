@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3224ae39-ab5a-4689-89e5-cfe1b66f39b9" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>example</find>
+      <find>e</find>
+      <find>提交</find>
+      <find>dd</find>
+      <find>nname</find>
+      <find>linkbu</find>
+      <find>search</find>
+      <find>isbn</find>
+      <find>supplierid</find>
+      <find>cons</find>
+      <find>examine</find>
+      <find>新建成功</find>
+      <find>hide</find>
+      <find>selected</find>
+      <find>update t_supplier</find>
+      <find>agr</find>
+      <find>submit_search</find>
+      <find>arg</find>
+      <find>t_role_permissions</find>
+      <find>selectAll</find>
+      <find>like</find>
+      <find>conso</find>
+      <find>doc-ipt-pwd-2</find>
+      <find>User</find>
+      <find>scriptVal</find>
+      <find>dubbo</find>
+      <find>zookeeper</find>
+      <find>mvc</find>
+      <find>solr</find>
+      <find>update t_book_supplier set number=</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+      <replace>arg</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/conf/TestMvcConfig.java" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/test-book-web/src/main/java/com/itany/TestBookWebApplication.java" />
+        <option value="$PROJECT_DIR$/test-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/test-websocket/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/controller/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/interceptor/WebSocketIntercepter.java" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/config/MyWebSocketHandler.java" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-user-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/ApplicationContextHold.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/Interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/Interceptor/OrderIntercepter.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/Interceptor/SpringWebSocketInterceptor.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/config/TestMvcConfig.java" />
+        <option value="$PROJECT_DIR$/test-chathome/pom.xml" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/controller/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/conf/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/conf/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/controller/TestOrderController.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/OtherConfig.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/SocketConfig.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/TestMvcConfig.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/test-order-api/src/main/java/com/itany/order/service/IRoderService.java" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/TestOrderWebApplication.java" />
+        <option value="$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test-book-service/src/main/resources/mappers/BookForListMapper.xml" />
+        <option value="$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/service/IBookService.java" />
+        <option value="$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/dao/BookMapper.java" />
+        <option value="$PROJECT_DIR$/test-book-service/src/main/java/com/itany/book/service/impl/BookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/vo/BookForSolr.java" />
+        <option value="$PROJECT_DIR$/test-book-api/pom.xml" />
+        <option value="$PROJECT_DIR$/test-book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/test-book-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-book-service/src/main/java/com/itany/BookServiceApplication.java" />
+        <option value="$PROJECT_DIR$/test-book-web/src/main/java/com/itany/controller/TestBookController.java" />
+        <option value="$PROJECT_DIR$/test-book-service/src/main/java/com/itany/conf/SolrConfig.java" />
+        <option value="$PROJECT_DIR$/test-manager/manager-web/src/main/resources/templates/permission.html" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/config/SpringWebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/config/SpringWebSocketHandler.java" />
+        <option value="$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/test-manager/manager-web/src/main/resources/mappers/TExamineMapper.xml" />
+        <option value="$PROJECT_DIR$/test-chathome/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-order-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/TestOrderServiceApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.1\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="505" />
+    <option name="y" value="1" />
+    <option name="width" value="1310" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectId" id="1rD6yAZdzWEMuwAaVkUbxpNMcLh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-parent-zxd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616645410541" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test-parent\test-book-service\src\main\resources\mappers" />
+      <recent name="D:\test-parent\test-chathome\src\main\java\com\zxd\chathome\Interceptor" />
+      <recent name="D:\test-parent\test-manager\manager-web\src\main\resources\mappers" />
+      <recent name="D:\test-parent\bookSpider\src\main\java\com\zxd\spider\entity" />
+      <recent name="E:\test-parent\test-order-service\src\main\java\com\itany\conf" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zxd.chathome.config" />
+      <recent name="com.zxd.chathome" />
+      <recent name="com.zxd.itanybook.entity" />
+      <recent name="com.zxd.spider.entity" />
+      <recent name="com.itany.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test-parent\bookSpider\src\main\resources" />
+      <recent name="D:\test-parent\bookSpider\src\main\java" />
+      <recent name="D:\test-parent\bookSpider\src\com\zxd\spider\dao" />
+      <recent name="D:\test-parent\test-manager\manager-service\src\main\resources\mappers" />
+      <recent name="D:\test-parent\test-manager\manager-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RequestMappingsEndpointTabSettings">
+    <option name="showLibraryMappings" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestOrderWebApplication">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$PROJECT_DIR$/../bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="GetBooksUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxd.spider.utils.GetBooksUtils" />
+      <module name="bookSpider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxd.spider.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parent" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="后台" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true">
+      <module name="manager-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.SpringbootWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-book-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.BookServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-chathome" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.chathome.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBookWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-book-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itanybook.TestBookWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBookWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-book-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestBookWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrderServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxd.itanybook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.TestOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrderWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-order-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxd.itanybook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.TestOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-user-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxd.itanybook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.TestUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.websocket.testwebsocket.TestWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxd.itanybook.UserServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="用户服务" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.UserServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="test-user-service" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="书籍服务" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.BookServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="test-book-service" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="订单服务" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestOrderServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="test-order-service" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="书籍web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-book-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestBookWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="订单web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itany.TestOrderWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="test-order-web" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetBooksUtils" />
+      <item itemvalue="Maven.parent" />
+      <item itemvalue="Spring Boot.BookServiceApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.TestBookWebApplication (1)" />
+      <item itemvalue="Spring Boot.TestBookWebApplication" />
+      <item itemvalue="Spring Boot.TestOrderServiceApplication" />
+      <item itemvalue="Spring Boot.TestOrderWebApplication" />
+      <item itemvalue="Spring Boot.TestWebsocketApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.书籍web" />
+      <item itemvalue="Spring Boot.TestOrderServiceApplication (1)" />
+      <item itemvalue="Spring Boot.TestOrderWebApplication (1)" />
+      <item itemvalue="Spring Boot.TestUserWebApplication" />
+      <item itemvalue="Spring Boot.后台" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.后台" />
+        <item itemvalue="Spring Boot.TestUserWebApplication" />
+        <item itemvalue="Spring Boot.TestOrderWebApplication (1)" />
+        <item itemvalue="Spring Boot.TestOrderServiceApplication (1)" />
+        <item itemvalue="Application.GetBooksUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tyh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3224ae39-ab5a-4689-89e5-cfe1b66f39b9" name="Default" comment="" />
+      <created>1537526595919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537526595919</updated>
+      <workItem from="1537526603668" duration="2800000" />
+      <workItem from="1537572698568" duration="5816000" />
+      <workItem from="1537578609747" duration="4114000" />
+      <workItem from="1537582747583" duration="1864000" />
+      <workItem from="1537584757253" duration="1290000" />
+      <workItem from="1537586371141" duration="5996000" />
+      <workItem from="1537594580448" duration="8668000" />
+      <workItem from="1537620185981" duration="3230000" />
+      <workItem from="1537668942651" duration="13501000" />
+      <workItem from="1537697090502" duration="581000" />
+      <workItem from="1538047906786" duration="1681000" />
+      <workItem from="1566038850270" duration="8341000" />
+      <workItem from="1566083706514" duration="9294000" />
+      <workItem from="1605080472070" duration="2017000" />
+      <workItem from="1605142791703" duration="7592000" />
+      <workItem from="1605255559604" duration="23000" />
+      <workItem from="1605340266565" duration="4091000" />
+      <workItem from="1605488389089" duration="3021000" />
+      <workItem from="1605506406690" duration="85000" />
+      <workItem from="1605574777327" duration="13000" />
+      <workItem from="1605584025723" duration="488000" />
+      <workItem from="1605661304340" duration="14000" />
+      <workItem from="1606093377024" duration="4418000" />
+      <workItem from="1606179688459" duration="6859000" />
+      <workItem from="1606266069312" duration="1005000" />
+      <workItem from="1606352524826" duration="90000" />
+      <workItem from="1607474145285" duration="277000" />
+      <workItem from="1607498141275" duration="179000" />
+      <workItem from="1607505411276" duration="13000" />
+      <workItem from="1607571178094" duration="5357000" />
+      <workItem from="1607666202404" duration="141000" />
+      <workItem from="1607674598866" duration="17000" />
+      <workItem from="1607758903454" duration="4177000" />
+      <workItem from="1607993970324" duration="77000" />
+      <workItem from="1607994281399" duration="1133000" />
+      <workItem from="1608002538856" duration="640000" />
+      <workItem from="1608010179412" duration="19000" />
+      <workItem from="1608253448597" duration="8484000" />
+      <workItem from="1608529647294" duration="3431000" />
+      <workItem from="1608533621964" duration="318000" />
+      <workItem from="1608534041286" duration="44000" />
+      <workItem from="1610583662898" duration="57000" />
+      <workItem from="1610614220543" duration="248000" />
+      <workItem from="1610672496913" duration="5384000" />
+      <workItem from="1611044569554" duration="4864000" />
+      <workItem from="1611104335384" duration="1721000" />
+      <workItem from="1611190762361" duration="14000" />
+      <workItem from="1611200551421" duration="660000" />
+      <workItem from="1611536578338" duration="8612000" />
+      <workItem from="1611623372788" duration="3206000" />
+      <workItem from="1611709205671" duration="4651000" />
+      <workItem from="1611795742568" duration="6502000" />
+      <workItem from="1611804002849" duration="2002000" />
+      <workItem from="1612488878329" duration="14000" />
+      <workItem from="1613955049370" duration="27000" />
+      <workItem from="1615279623898" duration="155000" />
+      <workItem from="1615356264503" duration="103000" />
+      <workItem from="1615362253604" duration="147000" />
+      <workItem from="1615424529628" duration="1690000" />
+      <workItem from="1615450183938" duration="36198000" />
+      <workItem from="1615599220095" duration="1070000" />
+      <workItem from="1615600568898" duration="16945000" />
+      <workItem from="1615771546499" duration="30369000" />
+      <workItem from="1615857179565" duration="33151000" />
+      <workItem from="1615955642950" duration="19116000" />
+      <workItem from="1616030187589" duration="186283000" />
+      <workItem from="1616652405965" duration="1836000" />
+      <workItem from="1616658734114" duration="2846000" />
+      <workItem from="1616805657475" duration="1266000" />
+      <workItem from="1618498567539" duration="90000" />
+      <workItem from="1618498785883" duration="289000" />
+      <workItem from="1618499099751" duration="512000" />
+      <workItem from="1618499646731" duration="150000" />
+      <workItem from="1618499815299" duration="160000" />
+      <workItem from="1618499993825" duration="338000" />
+      <workItem from="1619233985536" duration="40000" />
+      <workItem from="1619235753205" duration="96000" />
+      <workItem from="1619235864629" duration="200000" />
+      <workItem from="1620741027210" duration="18000" />
+      <workItem from="1620743826028" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="490336000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1440" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744898" visible="true" weight="0.23962805" />
+      <window_info id="Structure" order="1" sideWeight="0.502551" side_tool="true" weight="0.22117962" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Palette&#9;" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32775453" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50603217" side_tool="true" weight="0.45327756" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32775453" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49396783" weight="0.36262202" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49396783" weight="0.45327756" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32914925" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Ant Build" order="12" weight="0.32914925" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3297587" />
+      <window_info anchor="right" id="Designer" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2639485" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32908848" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test-manager/manager-service/src/main/java/com/zxd/itanybook/service/impl/TUserServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test-manager/manager-service/src/main/java/com/zxd/itanybook/service/impl/TUserServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/controller/BookController.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/controller/MangerUserController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/controller/ExamineController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="perms.get(3)" />
+        <watch expression="session" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/dao/BookMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/service/IBookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-api/src/main/java/com/itany/book/vo/BookForSolr.java" />
+    <entry file="file://$PROJECT_DIR$/test-book-service/src/main/java/com/itany/BookServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/conf/OtherConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/conf/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/conf/TestMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-web/src/main/java/com/itany/TestBookWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/java/com/zxd/itanybook/SpringbootWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-service/src/main/java/com/itany/conf/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-service/src/main/java/com/itany/conf/SolrConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/resources/mappers/SupplierBookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/resources/templates/permission.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-web/src/main/java/com/itany/controller/TestBookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/OtherConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/Interceptor/SpringWebSocketInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="25" column="65" lean-forward="true" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/controller/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/conf/TestMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="69" lean-forward="true" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/controller/TestOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/config/SpringWebSocketHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/Interceptor/OrderIntercepter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-web/src/main/java/com/zxd/itanybook/TestOrderWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-service/src/main/java/com/zxd/itanybook/UserServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/resources/mappers/TExamineMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="69" column="31" lean-forward="true" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-manager/manager-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/TestUserWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/controller/VailicodeController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-chathome/src/main/java/com/zxd/chathome/config/SpringWebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/conf/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/conf/TestMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/ApplicationContextHold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-book-service/src/main/java/com/itany/book/service/impl/BookServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="44" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/interceptor/OrderIntercepter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-user-web/src/main/java/com/zxd/itanybook/conf/OtherConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#60784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-order-service/src/main/java/com/zxd/itanybook/TestOrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

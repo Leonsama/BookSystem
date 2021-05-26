@@ -1,0 +1,14 @@
+com\zxd\itanybook\utils\WebUtils.class
+com\zxd\itanybook\conf\OtherConfig.class
+com\zxd\itanybook\controller\SupplierController.class
+com\zxd\itanybook\conf\MyBatisConfig.class
+com\zxd\itanybook\utils\ParUtils.class
+com\zxd\itanybook\controller\PermissionController.class
+com\zxd\itanybook\conf\TestMvcConfig.class
+com\zxd\itanybook\intercepter\MangerIntercepter.class
+com\zxd\itanybook\controller\UserController.class
+com\zxd\itanybook\controller\MangerUserController.class
+com\zxd\itanybook\controller\BookController.class
+com\zxd\itanybook\controller\ExamineController.class
+com\zxd\itanybook\SpringbootWebApplication.class
+com\zxd\itanybook\controller\TestController.class
